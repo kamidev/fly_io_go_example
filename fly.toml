@@ -1,6 +1,6 @@
-# fly.toml file generated for still-brook-1641 on 2021-10-06T17:45:35+02:00
+# fly.toml file generated for dark-sky-4673 on 2021-10-06T21:02:23+02:00
 
-app = "still-brook-1641"
+app = "dark-sky-4673"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
